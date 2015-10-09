@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.label {
+	font-size: $size-minor;
+	color: #fff;
+	background-color: #999;
+	border-radius: 3px;
+	padding: 4px 8px;
+	white-space: nowrap;
+}

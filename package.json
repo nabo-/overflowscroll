@@ -1,0 +1,31 @@
+{
+  "name": "dev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Gruntfile.js",
+  "author": "",
+  "dependencies": {
+    "prettify": "^0.1.7"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "grunt-assemble": "",
+    "grunt-autoprefixer": "",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-csso": "^0.7.1",
+    "grunt-contrib-copy": "",
+    "grunt-contrib-imagemin": "",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-newer": "~0.6.0",
+    "grunt-spritesmith": "^5.1.1",
+    "grunt-typescript": "^0.7.0",
+    "handlebars-helper-prettify": "^0.2.1",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.2.0"
+  }
+}

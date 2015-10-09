@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.scrolling {
+	overflow: hidden;
+
+	&__layout {
+		width: 100%;
+		position: relative;
+		overflow: scroll;
+		-webkit-overflow-scrolling: touch;
+	}
+
+	&__body {
+		padding: 4px 8px;
+	}
+}
